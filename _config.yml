@@ -1,0 +1,14 @@
+layout_spectrum: 0.3731028069742024
+typography_spectrum: 0.08689012168906629
+color:
+  brandStrength: 0.6129695056006312
+  lightness: 0.7074095555581152
+  saturation: 0.5448482166975737
+  rhythmicContrast: 0.7604382892604917
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: io
