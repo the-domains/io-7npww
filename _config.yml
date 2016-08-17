@@ -1,4 +1,3 @@
-layout_spectrum: 0.3731028069742024
 typography_spectrum: 0.08689012168906629
 color:
   brandStrength: 0.6129695056006312
@@ -11,4 +10,9 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.3731028069742024
+author:
+  name: Andres Paglayan
+  email: ''
+  url: andres.io
 name: io
